@@ -83,7 +83,7 @@ pkg install tsu -y || pkg install sudo -y
 
 ```bash
 git clone https://github.com/meilani-fauna/Fauna
-cd wipwn
+cd Fauna
 chmod +x main.py
 ```
 
@@ -180,7 +180,7 @@ Make sure you are inside the `fauna` directory when running the update script.
 ## 🗂️ File Structure
 
 ```txt
-📁 wipwn/
+📁 Fauna/
 ├── assets/           → Logo and screenshots
 ├── colors.py         → Terminal color helper
 ├── config.txt        → Output config format
@@ -190,7 +190,7 @@ Make sure you are inside the `fauna` directory when running the update script.
 ├── vulnwsc.txt       → Vulnerable BSSID database (sample)
 ├── setup.py          → Install/uninstall launcher script
 ├── update.py         → Git update helper script
-└── wipwn.sh          → Bash launcher script
+└── fauna.sh          → Bash launcher script
 ```
 
 ---
