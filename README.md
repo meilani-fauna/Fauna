@@ -1,7 +1,7 @@
-<h1 align="center">⚡ WIPWN - WiFi Pentesting Framework</h1>
+<h1 align="center">⚡ EKA - WiFi Pentesting Framework</h1>
 
 <p align="center">
-  <img src="assets/image.png" alt="WIPWN Logo" width="120" />
+  <img src="assets/image.png" alt="EKA Logo" width="120" />
 </p>
 
 <p align="center">
@@ -10,17 +10,17 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/anbuinfosec/wipwn/stargazers">
-    <img src="https://img.shields.io/github/stars/anbuinfosec/wipwn?color=gold&style=for-the-badge" />
+  <a href="https://github.com/meilani-fauna/Fauna/stargazers">
+    <img src="https://img.shields.io/github/stars/meilani-fauna?color=gold&style=for-the-badge" />
   </a>
-  <a href="https://github.com/anbuinfosec/wipwn/network/members">
-    <img src="https://img.shields.io/github/forks/anbuinfosec/wipwn?color=blue&style=for-the-badge" />
+  <a href="https://github.com/meilani-fauna/Fauna/network/members">
+    <img src="https://img.shields.io/github/forks/meilani-fauna/Fauna?color=blue&style=for-the-badge" />
   </a>
-  <a href="https://github.com/anbuinfosec/wipwn">
-    <img src="https://img.shields.io/github/repo-size/anbuinfosec/wipwn?style=for-the-badge&color=informational" alt="Repo Size" />
+  <a href="https://github.com/meilani-fauna/Fauna">
+    <img src="https://img.shields.io/github/repo-size/meilani-fauna/Fauna?style=for-the-badge&color=informational" alt="Repo Size" />
   </a>
-  <a href="https://github.com/anbuinfosec/wipwn/commits/main">
-    <img src="https://img.shields.io/github/last-commit/anbuinfosec/wipwn?style=for-the-badge&color=success" alt="Last Commit" />
+  <a href="https://github.com/meilani-fauna/Fauna/commits/main">
+    <img src="https://img.shields.io/github/last-commit/meilani-fauna/Fauna?style=for-the-badge&color=success" alt="Last Commit" />
   </a>
   <a href="https://t.me/anbuinfosec_official">
     <img src="https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram" />
@@ -82,8 +82,8 @@ pkg install tsu -y || pkg install sudo -y
 ````
 
 ```bash
-git clone https://github.com/anbuinfosec/wipwn
-cd wipwn
+git clone https://github.com/meilani-fauna/Fauna
+cd Fauna
 chmod +x main.py
 ```
 
@@ -99,10 +99,10 @@ After cloning and entering the repo folder, run:
 python3 setup.py install
 ```
 
-This will create a convenient launcher script `wipwn` in your Termux `~/../usr/bin/` directory, so you can run the tool by simply typing:
+This will create a convenient launcher script `fauna` in your Termux `~/../usr/bin/` directory, so you can run the tool by simply typing:
 
 ```bash
-wipwn --help
+fauna --help
 ```
 
 ---
@@ -117,7 +117,7 @@ python3 setup.py uninstall
 
 ---
 
-### Update WIPWN to the latest version
+### Update EKA to the latest version
 
 To update your local repository to the latest commit from GitHub, use:
 
@@ -201,7 +201,7 @@ Make sure you are inside the `wipwn` directory when running the update script.
 * 💬 Telegram: [@anbuinfosec](https://t.me/anbuinfosec)
 * 💬 Facebook: [@anbuinfosec](https://facebook.com/anbuinfosec)
 * 🌐 Website: [https://anbuinfosec.live](https://anbuinfosec.live)
-* 🐞 Report issues: [GitHub Issues](https://github.com/anbuinfosec/wipwn/issues)
+* 🐞 Report issues: [GitHub Issues](https://github.com/meilani-fauna/Fauna/issues)
 
 ---
 
@@ -214,7 +214,7 @@ You are free to use, modify, and distribute responsibly.
 
 ## 👤 Author
 
-Made with ❤️ by **Mohammad Alamin**
+Made with ❤️ by **EKA**
 
 Facebook: [@anbuinfosec](https://facebook.com/anbuinfosec)
 
