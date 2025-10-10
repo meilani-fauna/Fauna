@@ -102,7 +102,7 @@ python3 setup.py install
 This will create a convenient launcher script `fauna` in your Termux `~/../usr/bin/` directory, so you can run the tool by simply typing:
 
 ```bash
-fauna --help
+wipwn --help
 ```
 
 ---
@@ -144,7 +144,7 @@ Make sure you are inside the `fauna` directory when running the update script.
 | `sudo python main.py -i wlan0 -K`                    | Scan and auto attack        |
 | `sudo python main.py -i wlan0 -b <BSSID> -K`         | Attack specific BSSID       |
 | `sudo python main.py -i wlan0 -b <BSSID> -B -p 1234` | Bruteforce using PIN prefix |
-| `bash fauna.sh`                                      | Use Bash launcher           |
+| `bash wipwn.sh`                                      | Use Bash launcher           |
 
 ---
 
@@ -190,7 +190,7 @@ Make sure you are inside the `fauna` directory when running the update script.
 ├── vulnwsc.txt       → Vulnerable BSSID database (sample)
 ├── setup.py          → Install/uninstall launcher script
 ├── update.py         → Git update helper script
-└── fauna.sh          → Bash launcher script
+└── wipwn.sh          → Bash launcher script
 ```
 
 ---
