@@ -83,7 +83,7 @@ pkg install tsu -y || pkg install sudo -y
 
 ```bash
 git clone https://github.com/meilani-fauna/Fauna
-cd Fauna
+cd wipwm
 chmod +x main.py
 ```
 
