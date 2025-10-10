@@ -125,7 +125,7 @@ To update your local repository to the latest commit from GitHub, use:
 python3 update.py
 ```
 
-Make sure you are inside the `wipwn` directory when running the update script.
+Make sure you are inside the `fauna` directory when running the update script.
 
 ---
 
@@ -144,7 +144,7 @@ Make sure you are inside the `wipwn` directory when running the update script.
 | `sudo python main.py -i wlan0 -K`                    | Scan and auto attack        |
 | `sudo python main.py -i wlan0 -b <BSSID> -K`         | Attack specific BSSID       |
 | `sudo python main.py -i wlan0 -b <BSSID> -B -p 1234` | Bruteforce using PIN prefix |
-| `bash wipwn.sh`                                      | Use Bash launcher           |
+| `bash fauna.sh`                                      | Use Bash launcher           |
 
 ---
 
@@ -173,7 +173,7 @@ Make sure you are inside the `wipwn` directory when running the update script.
 
 | Scan                                                                                              | Cracked PIN                                                                                       | Saved Data                                                                                        | Config                                                                                            |
 | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| ![](https://raw.githubusercontent.com/anbuinfosec/anbuinfosec/refs/heads/main/assets/wipwn/1.jpg) | ![](https://raw.githubusercontent.com/anbuinfosec/anbuinfosec/refs/heads/main/assets/wipwn/2.jpg) | ![](https://raw.githubusercontent.com/anbuinfosec/anbuinfosec/refs/heads/main/assets/wipwn/3.jpg) | ![](https://raw.githubusercontent.com/anbuinfosec/anbuinfosec/refs/heads/main/assets/wipwn/4.jpg) |
+| ![](https://raw.githubusercontent.com/meilani-fauna/meilani-fauna/refs/heads/main/assets/fauna/1.jpg) | ![](https://raw.githubusercontent.com/meilani-fauna/meilani-fauna/refs/heads/main/assets/Fauna/2.jpg) | ![](https://raw.githubusercontent.com/meilani-fauna/meilani-fauna/refs/heads/main/assets/Fauna/3.jpg) | ![](https://raw.githubusercontent.com/meilani-fauna/meilani-fauna/refs/heads/main/assets/Fauna/4.jpg) |
 
 ---
 
@@ -190,17 +190,14 @@ Make sure you are inside the `wipwn` directory when running the update script.
 ├── vulnwsc.txt       → Vulnerable BSSID database (sample)
 ├── setup.py          → Install/uninstall launcher script
 ├── update.py         → Git update helper script
-└── wipwn.sh          → Bash launcher script
+└── fauna.sh          → Bash launcher script
 ```
 
 ---
 
 ## 💬 Contact & Support
 
-* 📧 Email: [anbuinfosec@gmail.com](mailto:anbuinfosec@gmail.com)
-* 💬 Telegram: [@anbuinfosec](https://t.me/anbuinfosec)
-* 💬 Facebook: [@anbuinfosec](https://facebook.com/anbuinfosec)
-* 🌐 Website: [https://anbuinfosec.live](https://anbuinfosec.live)
+* 💬 Facebook: [@eka](https://facebook.com/eka)
 * 🐞 Report issues: [GitHub Issues](https://github.com/meilani-fauna/Fauna/issues)
 
 ---
@@ -214,13 +211,14 @@ You are free to use, modify, and distribute responsibly.
 
 ## 👤 Author
 
-Made with ❤️ by **EKA**
+Made with 🏴‍☠️ by **EKA**
 
-Facebook: [@anbuinfosec](https://facebook.com/anbuinfosec)
+Facebook:[Eka]
+(https://www.facebook.com/eka)
 
-GitHub: [@anbuinfosec](https://github.com/anbuinfosec)
+Github [@meilani-fauna]
+(github/comthub.com/meilani-fauna/Fauna
 
-Email: [anbuinfosec@gmail.com](mailto:anbuinfosec@gmail.com)
 
 ---
 
