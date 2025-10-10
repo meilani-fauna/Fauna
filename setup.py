@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Author: @anbuinfosec
-GitHub: https://github.com/anbuinfosec/wipwn
+GitHub: https://github.com/meilani-fauna/Fauna
 License: MIT License
 Disclaimer:
     This tool is for educational and authorized penetration testing only.  
@@ -26,8 +26,8 @@ YELLOW = yellow
 RESET = reset
 
 SCRIPT_NAME = 'main.py'
-MODULE_NAME = 'wipwn'
-BIN_NAME = 'wipwn'
+MODULE_NAME = 'eka'
+BIN_NAME = 'eka'
 
 def is_termux():
     return os.getenv("PREFIX", "").startswith("/data/data/com.termux/files/usr")
