@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Author: @anbuinfosec
-GitHub: https://github.com/anbuinfosec/wipwn
+Author: @Eka
+GitHub: https://github.com/meilani-fauna/Fauna
 License: MIT License
 Disclaimer:
     This tool is for educational and authorized penetration testing only.  
