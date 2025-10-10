@@ -1,11 +1,11 @@
 #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# COMPILED BY @anbuinfosec
+# COMPILED BY @Eka
 # COMPILEDTIME :- 22:02:2025 - 23:09:45.
 # FACEBOOK :- https://facebook.com/eka
 # GITHUB :- https://github.com/meilani-fauna
 #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 """
-Author: @anbuinfosec
+Author: @Eka
 GitHub: https://github.com/meilani-fauna/Fauna
 License: MIT License
 Disclaimer:
