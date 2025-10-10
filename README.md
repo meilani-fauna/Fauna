@@ -83,7 +83,7 @@ pkg install tsu -y || pkg install sudo -y
 
 ```bash
 git clone https://github.com/meilani-fauna/Fauna
-cd fauna
+cd wipwn
 chmod +x main.py
 ```
 
@@ -180,7 +180,7 @@ Make sure you are inside the `fauna` directory when running the update script.
 ## 🗂️ File Structure
 
 ```txt
-📁 fauna/
+📁 wipwn/
 ├── assets/           → Logo and screenshots
 ├── colors.py         → Terminal color helper
 ├── config.txt        → Output config format
