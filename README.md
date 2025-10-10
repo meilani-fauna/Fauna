@@ -102,7 +102,7 @@ python3 setup.py install
 This will create a convenient launcher script `fauna` in your Termux `~/../usr/bin/` directory, so you can run the tool by simply typing:
 
 ```bash
-wipwn --help
+fauna --help
 ```
 
 ---
