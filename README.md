@@ -152,10 +152,10 @@ Make sure you are inside the `fauna` directory when running the update script.
 
 | Command                                              | Description        |
 | ---------------------------------------------------- | ------------------ |
-| `sudo wipwn --help`                         | Show help options           |
-| `sudo wipwn -i wlan0 -K`                    | Scan and auto attack        |
-| `sudo wipwn -i wlan0 -b <BSSID> -K`         | Attack specific BSSID       |
-| `sudo wipwn -i wlan0 -b <BSSID> -B -p 1234` | Bruteforce using PIN prefix |
+| `sudo fauna --help`                         | Show help options           |
+| `sudo fauna -i wlan0 -K`                    | Scan and auto attack        |
+| `sudo fauna -i wlan0 -b <BSSID> -K`         | Attack specific BSSID       |
+| `sudo fauna -i wlan0 -b <BSSID> -B -p 1234` | Bruteforce using PIN prefix |
 
 ---
 
