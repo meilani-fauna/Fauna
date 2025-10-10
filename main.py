@@ -1,14 +1,12 @@
 #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # COMPILED BY @anbuinfosec
 # COMPILEDTIME :- 22:02:2025 - 23:09:45.
-# FACEBOOK :- https://facebook.com/anbuinfosec
-# GITHUB :- https://github.com/anbuinfosec
-# TELEGRAM :- https://t.me/anbuinfosec_official
-# YOUTUBE :- https://youtube.com/@anbuinfosec
+# FACEBOOK :- https://facebook.com/eka
+# GITHUB :- https://github.com/meilani-fauna
 #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 """
 Author: @anbuinfosec
-GitHub: https://github.com/anbuinfosec/wipwn
+GitHub: https://github.com/meilani-fauna/Fauna
 License: MIT License
 Disclaimer:
     This tool is for educational and authorized penetration testing only.  
