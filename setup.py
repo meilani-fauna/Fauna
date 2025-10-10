@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Author: @anbuinfosec
+Author: @Eka
 GitHub: https://github.com/meilani-fauna/Fauna
 License: MIT License
 Disclaimer:
