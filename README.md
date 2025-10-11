@@ -1,4 +1,4 @@
-<h1 align="center">⚡ EKA - WiFi Pentesting Framework</h1>
+<h1 align="center">⚡ EKA33 - WiFi Pentesting Framework</h1>
 
 <p align="center">
   <img src="assets/image.png" alt="EKA Logo" width="120" />
